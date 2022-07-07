@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"@vinicunca/unocss": "^0.0.5"
+	},
+	"scripts": {
+		"dev:vite": "pnpm -C vite dev"
+	}
+}
